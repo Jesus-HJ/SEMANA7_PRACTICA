@@ -1,4 +1,15 @@
 export const MOVIE_IDS = [19995, 76600, 299534, 299536, 597, 157336, 27205, 155, 634649, 1726, 414906, 475557, 872585, 693134, 1022789];
+export const FEATURED_MOVIE_IDS = [157336, 19995, 693134];
+
+export function selectFeaturedMovies(movies) {
+  const featured = FEATURED_MOVIE_IDS.flatMap(id => {
+    const movie = movies.find(item => item.id === id);
+    return movie ? [movie] : [];
+  });
+  const featuredIds = new Set(featured.map(movie => movie.id));
+  return [...featured, ...movies.filter(movie => !featuredIds.has(movie.id))].slice(0, 3);
+}
+
 export function selectMovies(movies, { query = '', genre = '', sort = 'featured' }) {
   const normalize = text => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
   const result = movies.filter(movie => (!query || normalize(`${movie.title} ${movie.original_title} ${movie.localized_title || ''}`).includes(normalize(query))) && (!genre || movie.genres.some(item => String(item.id) === genre)));
