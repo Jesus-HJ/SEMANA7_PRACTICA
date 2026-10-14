@@ -1,0 +1,444 @@
+[
+  {
+    "id": 19995,
+    "title": "Avatar",
+    "original_title": "Avatar",
+    "localized_title": "Avatar",
+    "release_date": "2009-12-16",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "overview": "En Pandora, Jake Sully participa en un programa que le permite habitar un cuerpo na’vi. Su relación con Neytiri y el mundo que descubre lo enfrenta a los intereses humanos que amenazan el planeta.",
+    "runtime": 162,
+    "vote_average": 7.61,
+    "vote_count": 34838,
+    "poster_path": "/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+    "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+    "source_url": "https://www.themoviedb.org/movie/19995-avatar?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 76600,
+    "title": "Avatar: The Way of Water",
+    "original_title": "Avatar: The Way of Water",
+    "localized_title": "Avatar: El sentido del agua",
+    "release_date": "2022-12-14",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "overview": "Jake y Neytiri han formado una familia, pero el regreso de las fuerzas humanas los obliga a abandonar su hogar. Entre los clanes del océano buscan refugio y aprenden a sobrevivir en un entorno desconocido.",
+    "runtime": 192,
+    "vote_average": 7.6,
+    "vote_count": 14761,
+    "poster_path": "/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
+    "backdrop_path": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+    "source_url": "https://www.themoviedb.org/movie/76600-avatar-the-way-of-water?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 299534,
+    "title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "localized_title": "Vengadores: Endgame",
+    "release_date": "2019-04-24",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "overview": "Después de la victoria de Thanos, los héroes supervivientes intentan reconstruir sus vidas. Una posibilidad de recuperar a quienes desaparecieron reúne a los Vengadores para una misión a través del tiempo.",
+    "runtime": 181,
+    "vote_average": 8.246,
+    "vote_count": 28998,
+    "poster_path": "/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+    "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "source_url": "https://www.themoviedb.org/movie/299534-avengers-endgame?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 299536,
+    "title": "Avengers: Infinity War",
+    "original_title": "Avengers: Infinity War",
+    "localized_title": "Vengadores: Infinity War",
+    "release_date": "2018-04-25",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "overview": "Thanos busca las seis Gemas del Infinito para ejecutar un plan devastador. Los Vengadores y sus aliados deben combatir en distintos frentes para impedir que consiga un poder capaz de alterar todo el universo.",
+    "runtime": 149,
+    "vote_average": 8.245,
+    "vote_count": 33142,
+    "poster_path": "/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+    "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+    "source_url": "https://www.themoviedb.org/movie/299536-avengers-infinity-war?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 597,
+    "title": "Titanic",
+    "original_title": "Titanic",
+    "localized_title": "Titanic",
+    "release_date": "1997-12-18",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "overview": "Durante el viaje inaugural del Titanic, Rose y Jack se conocen pese a pertenecer a mundos sociales muy diferentes. Su romance desafía las expectativas de quienes los rodean mientras el barco se acerca al desastre.",
+    "runtime": 194,
+    "vote_average": 7.901,
+    "vote_count": 27897,
+    "poster_path": "/2tltWMvvTqscFtdujTXDsRFTqKQ.jpg",
+    "backdrop_path": "/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+    "source_url": "https://www.themoviedb.org/movie/597-titanic?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 157336,
+    "title": "Interstellar",
+    "original_title": "Interstellar",
+    "localized_title": "Interstellar",
+    "release_date": "2014-11-04",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "overview": "Con la Tierra al borde de una crisis irreversible, Cooper se une a una expedición espacial en busca de un nuevo hogar para la humanidad. El viaje pone a prueba sus conocimientos y el vínculo con la hija que dejó atrás.",
+    "runtime": 169,
+    "vote_average": 8.49,
+    "vote_count": 41480,
+    "poster_path": "/d1QKiYtceF3GDtxvTFXFAqwwah9.jpg",
+    "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+    "source_url": "https://www.themoviedb.org/movie/157336-interstellar?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 27205,
+    "title": "Inception",
+    "original_title": "Inception",
+    "localized_title": "Origen",
+    "release_date": "2010-07-15",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "overview": "Dom Cobb se especializa en extraer información de los sueños. Para recuperar su vida recibe un encargo distinto: implantar una idea. Su equipo deberá atravesar varias capas del subconsciente mientras él se enfrenta a su propio pasado.",
+    "runtime": 148,
+    "vote_average": 8.373,
+    "vote_count": 40423,
+    "poster_path": "/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+    "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    "source_url": "https://www.themoviedb.org/movie/27205-inception?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 155,
+    "title": "The Dark Knight",
+    "original_title": "The Dark Knight",
+    "localized_title": "El caballero oscuro",
+    "release_date": "2008-07-16",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "overview": "Batman, Jim Gordon y Harvey Dent intentan debilitar a las organizaciones criminales de Gotham. La aparición del Joker transforma la lucha en una prueba moral que amenaza a toda la ciudad y a quienes intentan protegerla.",
+    "runtime": 152,
+    "vote_average": 8.537,
+    "vote_count": 36965,
+    "poster_path": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+    "backdrop_path": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+    "source_url": "https://www.themoviedb.org/movie/155-the-dark-knight?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 634649,
+    "title": "Spider-Man: No Way Home",
+    "original_title": "Spider-Man: No Way Home",
+    "localized_title": "Spider-Man: No Way Home",
+    "release_date": "2021-12-15",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "overview": "La identidad de Peter Parker se vuelve pública y pone en peligro a sus seres queridos. Al buscar una solución con Doctor Strange, un hechizo sale mal y abre el camino a visitantes de otros universos.",
+    "runtime": 148,
+    "vote_average": 7.947,
+    "vote_count": 23323,
+    "poster_path": "/accAPImdjUwgNgocDNWXCGFEcvL.jpg",
+    "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+    "source_url": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 1726,
+    "title": "Iron Man",
+    "original_title": "Iron Man",
+    "localized_title": "Iron Man",
+    "release_date": "2008-04-30",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "overview": "Tony Stark, empresario e inventor de armamento, construye una armadura para escapar de su cautiverio. De vuelta a casa, decide perfeccionarla y afrontar las consecuencias del negocio que lo convirtió en millonario.",
+    "runtime": 126,
+    "vote_average": 7.666,
+    "vote_count": 28983,
+    "poster_path": "/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
+    "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1726-iron-man?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 414906,
+    "title": "The Batman",
+    "original_title": "The Batman",
+    "localized_title": "The Batman",
+    "release_date": "2022-03-01",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "overview": "Un asesino deja mensajes dirigidos a Batman mientras ataca a figuras influyentes de Gotham. La investigación revela una red de corrupción y obliga a Bruce Wayne a cuestionar el pasado de su familia y su papel en la ciudad.",
+    "runtime": 177,
+    "vote_average": 7.671,
+    "vote_count": 12670,
+    "poster_path": "/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+    "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+    "source_url": "https://www.themoviedb.org/movie/414906-the-batman?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 475557,
+    "title": "Joker",
+    "original_title": "Joker",
+    "localized_title": "Joker",
+    "release_date": "2019-10-01",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "overview": "Arthur Fleck sobrevive como payaso y sueña con actuar como comediante. El aislamiento, la violencia y una sucesión de pérdidas profundizan su crisis personal en una Gotham marcada por la desigualdad.",
+    "runtime": 122,
+    "vote_average": 8.114,
+    "vote_count": 28498,
+    "poster_path": "/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+    "backdrop_path": "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+    "source_url": "https://www.themoviedb.org/movie/475557-joker?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 872585,
+    "title": "Oppenheimer",
+    "original_title": "Oppenheimer",
+    "localized_title": "Oppenheimer",
+    "release_date": "2023-07-19",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "overview": "El físico J. Robert Oppenheimer encabeza el desarrollo de un arma que cambiará la historia. Su trayectoria entre la investigación, la guerra y los conflictos políticos plantea las consecuencias de su participación en el Proyecto Manhattan.",
+    "runtime": 181,
+    "vote_average": 8.022,
+    "vote_count": 12684,
+    "poster_path": "/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+    "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+    "source_url": "https://www.themoviedb.org/movie/872585-oppenheimer?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 693134,
+    "title": "Dune: Part Two",
+    "original_title": "Dune: Part Two",
+    "localized_title": "Dune: Parte dos",
+    "release_date": "2024-02-27",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "overview": "Paul Atreides encuentra aliados entre los Fremen y se acerca a Chani mientras prepara su respuesta contra quienes destruyeron su familia. Sus visiones lo enfrentan a decisiones que pueden cambiar el futuro de Arrakis y del imperio.",
+    "runtime": 167,
+    "vote_average": 8.14,
+    "vote_count": 8733,
+    "poster_path": "/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
+    "backdrop_path": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+    "source_url": "https://www.themoviedb.org/movie/693134-dune-part-two?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  },
+  {
+    "id": 1022789,
+    "title": "Inside Out 2",
+    "original_title": "Inside Out 2",
+    "localized_title": "Del revés 2 (Inside Out 2)",
+    "release_date": "2024-06-11",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "overview": "La adolescencia de Riley altera el equilibrio de sus emociones. Cuando Ansiedad llega al centro de control junto a nuevas compañeras, Alegría y las demás deben aprender a convivir con una forma distinta de entender el mundo.",
+    "runtime": 97,
+    "vote_average": 7.5,
+    "vote_count": 7057,
+    "poster_path": "/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg",
+    "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "source_url": "https://www.themoviedb.org/movie/1022789-inside-out-2?language=es-ES",
+    "verified_at": "2026-10-14",
+    "data_source": "tmdb-snapshot"
+  }
+]
